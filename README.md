@@ -4,7 +4,7 @@
 > LISTA
 
 - [x] #1
-- [ ] HOLA
+- [] HOLA
 
 > [!TIP]
 > Hola a todos
