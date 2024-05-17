@@ -2,9 +2,7 @@
 ![Imagen]() Hola, mi nombre es Julen 😲
 
 
-
 - [x] #1
-
 
 > [!IMPORTANT]
 > Hola a todos
