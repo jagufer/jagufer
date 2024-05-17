@@ -1,2 +1,2 @@
 
-![Imagen](https://avatars.githubusercontent.com/u/170084256?v=4) Hola, mi nombre es Julen 😲
+![Imagen](file:///C:/Users/usuario/Downloads/descarga%20(1).jpg) Hola, mi nombre es Julen 😲
